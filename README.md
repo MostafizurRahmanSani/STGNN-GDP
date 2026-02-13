@@ -189,7 +189,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code in your research, please cite:
 
 ```bibtex
-@misc{gdp-prediction-stgnn,
+@misc{STGNN-GDP,
   author = {Mostafizur Rahman Sani},
   title = {STGNN-GDP: Modeling Cross-Country Economic Dynamics for Multi-Horizon GDP Forecasting},
   year = {2026},
