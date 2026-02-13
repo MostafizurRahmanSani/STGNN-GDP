@@ -194,8 +194,8 @@ If you use this code in your research, please cite:
   title = {STGNN-GDP: Modeling Cross-Country Economic Dynamics for Multi-Horizon GDP Forecasting},
   year = {2026},
   publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/MostafizurRahmanSani/STGNN-GDP}}
+  url       = {https://github.com/MostafizurRahmanSani/STGNN-GDP},
+  note      = {GitHub repository}
 }
 ```
 
